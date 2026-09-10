@@ -1,4 +1,4 @@
-**Hugging face_model**
+##**HUGGINGFACE_MODEL**
 
 ## Intelligent AI Assistant
 
