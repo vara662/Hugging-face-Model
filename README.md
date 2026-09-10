@@ -1,4 +1,5 @@
-Hugging face_model
+**Hugging face_model**
+
 ## Intelligent AI Assistant
 
 Nexa AI is an intelligent conversational AI assistant developed using Python, Streamlit, and the Hugging Face Inference API. The application provides a simple and interactive chat interface where users can ask questions and receive AI-generated responses in real time.
